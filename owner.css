@@ -1,0 +1,18 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.pp img{
+    transition-duration: 1s;
+
+}
+.pp img:hover{
+transform: scale(1.1);
+}
+.ppp{
+    transition-duration: 1s;
+}
+.ppp:hover{
+    background-color:#f3f78e70; ;
+    transform: scale(1.1);
+}
